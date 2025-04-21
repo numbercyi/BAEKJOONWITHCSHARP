@@ -1,0 +1,5 @@
+D:\STUDY\algorithm\Csharp\Baekjoon\Baekjoon.2557_HelloWorld\obj\Debug\net9.0\Baekjoon.2557_HelloWorld.csproj.AssemblyReference.cache
+D:\STUDY\algorithm\Csharp\Baekjoon\Baekjoon.2557_HelloWorld\obj\Debug\net9.0\Baekjoon.2557_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY\algorithm\Csharp\Baekjoon\Baekjoon.2557_HelloWorld\obj\Debug\net9.0\Baekjoon.2557_HelloWorld.AssemblyInfoInputs.cache
+D:\STUDY\algorithm\Csharp\Baekjoon\Baekjoon.2557_HelloWorld\obj\Debug\net9.0\Baekjoon.2557_HelloWorld.AssemblyInfo.cs
+D:\STUDY\algorithm\Csharp\Baekjoon\Baekjoon.2557_HelloWorld\obj\Debug\net9.0\Baekjoon.2557_HelloWorld.csproj.CoreCompileInputs.cache

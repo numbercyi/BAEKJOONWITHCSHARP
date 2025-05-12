@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baekjoon.10869_Operation", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baekjoon.1330_Comp", "Baekjoon.1330_Comp\Baekjoon.1330_Comp.csproj", "{0D5E9A35-337F-4015-A137-3AC95A3176A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baekjoon.9498_Grade", "Baekjoon.9498_Grade\Baekjoon.9498_Grade.csproj", "{3A27253A-9C67-4ED2-ADEF-CDE2CBFDBD55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,18 @@ Global
 		{0D5E9A35-337F-4015-A137-3AC95A3176A3}.Release|x64.Build.0 = Release|Any CPU
 		{0D5E9A35-337F-4015-A137-3AC95A3176A3}.Release|x86.ActiveCfg = Release|Any CPU
 		{0D5E9A35-337F-4015-A137-3AC95A3176A3}.Release|x86.Build.0 = Release|Any CPU
+		{3A27253A-9C67-4ED2-ADEF-CDE2CBFDBD55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A27253A-9C67-4ED2-ADEF-CDE2CBFDBD55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A27253A-9C67-4ED2-ADEF-CDE2CBFDBD55}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3A27253A-9C67-4ED2-ADEF-CDE2CBFDBD55}.Debug|x64.Build.0 = Debug|Any CPU
+		{3A27253A-9C67-4ED2-ADEF-CDE2CBFDBD55}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3A27253A-9C67-4ED2-ADEF-CDE2CBFDBD55}.Debug|x86.Build.0 = Debug|Any CPU
+		{3A27253A-9C67-4ED2-ADEF-CDE2CBFDBD55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A27253A-9C67-4ED2-ADEF-CDE2CBFDBD55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A27253A-9C67-4ED2-ADEF-CDE2CBFDBD55}.Release|x64.ActiveCfg = Release|Any CPU
+		{3A27253A-9C67-4ED2-ADEF-CDE2CBFDBD55}.Release|x64.Build.0 = Release|Any CPU
+		{3A27253A-9C67-4ED2-ADEF-CDE2CBFDBD55}.Release|x86.ActiveCfg = Release|Any CPU
+		{3A27253A-9C67-4ED2-ADEF-CDE2CBFDBD55}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
